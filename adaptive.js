@@ -1,5 +1,4 @@
 class Adaptive {
-    
     getDeviceType() {
         return window.navigator.userAgent;
     }
